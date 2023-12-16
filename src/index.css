@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.home__block{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.trending__block{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.block{
+  display: flex;
+}
+.not__found{
+  text-align: center;
+}
